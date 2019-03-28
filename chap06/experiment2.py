@@ -1,0 +1,1 @@
+print("코알라의 학명은 'Phascolarctos cinereus'입니다") 
